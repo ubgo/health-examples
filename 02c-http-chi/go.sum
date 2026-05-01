@@ -1,0 +1,6 @@
+github.com/go-chi/chi/v5 v5.1.0 h1:acVI1TYaD+hhedDJ3r54HyA6sExp3HfXq7QWEEY/xMw=
+github.com/go-chi/chi/v5 v5.1.0/go.mod h1:DslCQbL2OYiznFReuXYUmQ2hGd1aDpCnlMNITLSKoi8=
+github.com/ubgo/health v0.1.0 h1:6z0XWAE6sIl2eZC8TWXgta5neu0vktxnxhP5c71w800=
+github.com/ubgo/health v0.1.0/go.mod h1:R/0uQpjUjFQS0Rg89LSCj5YWNtsnGY6NyfXpvZj+GPo=
+github.com/ubgo/health/contrib/health-chi v0.1.0 h1:qUhskMf+YqXJjnIWRV0SSR/86gxslP865KyQasZu04s=
+github.com/ubgo/health/contrib/health-chi v0.1.0/go.mod h1:sXPUjkHLPZPuzZ5dUsyw47aL6qpNys/EK7JlCMWuCLQ=
